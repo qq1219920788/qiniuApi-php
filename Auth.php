@@ -1,5 +1,5 @@
 <?php
-namespace Qiniu;
+namespace qiniuApi;
 
 final class Auth
 {
