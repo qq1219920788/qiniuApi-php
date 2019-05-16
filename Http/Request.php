@@ -1,5 +1,5 @@
 <?php
-namespace Qiniu\Http;
+namespace qiniuApi\Http;
 
 final class Request
 {
