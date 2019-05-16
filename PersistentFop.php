@@ -1,9 +1,9 @@
 <?php
-namespace Qiniu\Processing;
+namespace qiniuApi;
 
-use Qiniu\Http\Error;
-use Qiniu\Http\Request;
-use Qiniu\Http\Response;
+use qiniuApi\Http\Error;
+use qiniuApi\Http\Request;
+use qiniuApi\Http\Response;
 
 /**
  * 持久化处理类,该类用于主动触发异步持久化操作.
