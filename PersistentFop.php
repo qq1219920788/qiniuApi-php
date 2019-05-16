@@ -85,7 +85,7 @@ final class PersistentFop
         return self::sendRequest($request);
     }
 
-    public function function setWithoutEmpty(&$array, $key, $value)
+    public function setWithoutEmpty(&$array, $key, $value)
     {
         if (!empty($value)) {
             $array[$key] = $value;
