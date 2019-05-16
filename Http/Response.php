@@ -1,6 +1,6 @@
 <?php
 
-namespace Qiniu\Http;
+namespace qiniuApi\Http;
 
 /**
  * HTTP response Object
